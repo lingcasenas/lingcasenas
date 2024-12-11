@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi I'm Ling Casenas 👋
 
-<!--
-**lingcasenas/lingcasenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Computer Science at San Jose City College.
+focusing on learning Python and Java. 
+I'm passionate about creating efficient, user-friendly 
+applications and contributing to open-source projects.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects
+- Using Python to Develop a Self Ordering System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌱 I'm currently learning
+- Python
+- Java
+- HTML
+- CSS
+
+### 💻 Technical Skills
+- Languages: Python, 
+
+### 📫 How to reach me
+- LinkedIn: [www.linkedin.com/in/ling-casenas-4569182a6]
+- Email: lingcasenas@gmail.com
+
+ ### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)
